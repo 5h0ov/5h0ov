@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvadipta Das</h1>
 <h3 align="center">Aspiring Software Engineer from India with a passion for Computer Science.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Shuvadipta+Das;Asipiring+Software+Engineer;Learning+Full+Stack+Web+Dev;Passion+For+Computer+Science;Hope+you+are+having+a+nice+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Shuvadipta+Das;Asipiring+Software+Engineer;Learning+Full+Stack+Web+Dev;Passion+For+Computer+Science;Hope+you+are+having+a+nice+day!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5h0ov&label=Profile%20views&color=0e75b6&style=flat" alt="5h0ov" /> </p>
 
