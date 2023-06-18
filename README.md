@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5h0ov" alt="5h0ov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/5h0ovie" target="blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
+<p align="left"> <a href="https://twitter.com/5h0ovie" target="_blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
 
 - 🔭 I’m currently working on [GSSOC '23 Open Source](https://gssoc.girlscript.tech/)
 
@@ -29,13 +29,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/5h0ovie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5h0ovie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shuvadipta das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvadipta das" height="30" width="40" /></a>
-<a href="https://codesandbox.com/5h0ov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="5h0ov" height="30" width="40" /></a>
-<a href="https://instagram.com/its_shuvadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shuvadipta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/5h0ov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5h0ov" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shoob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shoob" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/5h0ov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="5h0ov" height="30" width="40" /></a>
+<a href="https://twitter.com/5h0ovie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5h0ovie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shuvadipta das" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvadipta das" height="30" width="40" /></a>
+<a href="https://codesandbox.com/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="5h0ov" height="30" width="40" /></a>
+<a href="https://instagram.com/its_shuvadipta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shuvadipta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5h0ov" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shoob" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shoob" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="5h0ov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
