@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5h0ovie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5h0ovie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shuvadipta das" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvadipta das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shuvadipta-das-915b28216/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvadipta das" height="30" width="40" /></a>
 <a href="https://codesandbox.com/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="5h0ov" height="30" width="40" /></a>
 <a href="https://instagram.com/its_shuvadipta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shuvadipta" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5h0ov" height="30" width="40" /></a>
