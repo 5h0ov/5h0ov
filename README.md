@@ -1,3 +1,7 @@
+<p align="center">
+  ![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/5h0ov/5h0ov/assets/83227649/3d167eb2-10af-4c39-9a96-e216f91ec43f)
+</p>
+
 <h1 align="center">Hi 👋, I'm Shuvadipta Das</h1>
 <h3 align="center">Aspiring Software Engineer from India with a passion for Computer Science.</h3>
 
