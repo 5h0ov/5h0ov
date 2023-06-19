@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/5h0ovie" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="5h0ovie" height="30" width="40" /></a>
+<a href="https://twitter.com/5h0ovie" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="5h0ovie" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/shuvadipta-das-915b28216/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shuvadipta das" height="30" width="40" /></a>
 <a href="https://codesandbox.com/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="5h0ov" height="30" width="40" /></a>
 <a href="https://instagram.com/its_shuvadipta" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="its_shuvadipta" height="30" width="40" /></a>
