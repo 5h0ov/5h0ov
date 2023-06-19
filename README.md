@@ -34,7 +34,7 @@
 <a href="https://codesandbox.com/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="5h0ov" height="40" width="40" /></a>
 <a href="https://instagram.com/its_shuvadipta" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="its_shuvadipta" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/5h0ov" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="5h0ov" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/shoob" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shoob" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shoob" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcodechef-codechef--1123296332036384953%2F&psig=AOvVaw3b8FwbpbqkR-JR981xc24s&ust=1687233010323000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiA7eK2zv8CFQAAAAAdAAAAABAE" alt="shoob" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/5h0ov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="5h0ov" height="40" width="40" /></a>
 </p>
 
