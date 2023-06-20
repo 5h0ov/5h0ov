@@ -15,11 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/5h0ovie" target="_blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
 
-- 🔭 I’m currently working on [GSSOC '23 Open Source](https://gssoc.girlscript.tech/)
+- 🔭 I’m currently working on **[GSSOC '23 Open Source](https://gssoc.girlscript.tech/)**
 
 - 🌱 I’m currently learning **Web Dev, DSA Using both C++ & Java**
 
-- 👨‍💻 All of my projects are available at [https://5h0ov.github.io/Personal-Portfolio/](https://5h0ov.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at **[https://5h0ov.github.io/Personal-Portfolio/](https://5h0ov.github.io/Personal-Portfolio/)**
 
 - 💬 Ask me about **Computer Science, Web Dev, C.**
 
