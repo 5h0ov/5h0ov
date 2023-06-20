@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/5h0ov/5h0ov/assets/83227649/3d167eb2-10af-4c39-9a96-e216f91ec43f" width="50%" margin-left="100" /> 
+  <img src="https://github.com/5h0ov/5h0ov/assets/83227649/3d167eb2-10af-4c39-9a96-e216f91ec43f" width="50%" margin-left="1000" /> 
 
 
 <h1 align="center">Hi <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/></a>, I'm Shuvadipta Das aka 5h0ov</h1>
