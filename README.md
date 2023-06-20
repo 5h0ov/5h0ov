@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **I once thought of reading a book about sinkholes. But it fell through!**
 
-[![Discord](https://discord.c99.nl/widget/theme-3/340577779051528192.png)](https://discordapp.com/users/shoob#3531)
+[![Discord](https://discord.c99.nl/widget/theme-2/340577779051528192.png)](https://discordapp.com/users/shoob#3531)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
