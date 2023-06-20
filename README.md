@@ -28,8 +28,11 @@
 - 😄 Pronouns: He/Him/His
 
 - ⚡ Fun fact **I once thought of reading a book about sinkholes. But it fell through!**
-
+<br>
+<br>
 [![Discord](https://discord.c99.nl/widget/theme-2/340577779051528192.png)](https://discordapp.com/users/shoob#3531)
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
