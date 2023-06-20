@@ -1,6 +1,10 @@
 
-  <img src="https://github.com/5h0ov/5h0ov/assets/83227649/3d167eb2-10af-4c39-9a96-e216f91ec43f" width="50%" text-align="center" /> 
-
+  <img src="https://github.com/5h0ov/5h0ov/assets/83227649/3d167eb2-10af-4c39-9a96-e216f91ec43f" width="50%" class="entry" /> 
+<style>
+  .entry{
+    text-align=center;
+  }
+</style>
 
 <h1 align="center">Hi <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/></a>, I'm Shuvadipta Das aka 5h0ov</h1>
 <h3 align="center">Aspiring Software Engineer from India with a passion for Computer Science.</h3>
