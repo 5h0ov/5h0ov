@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5h0ov&label=Profile%20views&color=0e75b6&style=flat" alt="5h0ov" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=5h0ov-ma&theme=onedark)](https://github.com/5h0ov-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=5h0ov&theme=onedark)](https://github.com/5h0ov/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/5h0ovie" target="_blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
 
