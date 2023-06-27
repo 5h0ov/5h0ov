@@ -52,3 +52,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=5h0ov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=5h0ov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=5h0ov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!----------------------------------------------- Buy Me A Coffee ------------------------------------------------>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />       
+<div align="center">
+    <a href="https://www.buymeacoffee.com/shoob" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"             style="height: 60px !important;width: 217px !important;" >
+    </a>
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
