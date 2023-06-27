@@ -1,7 +1,8 @@
 
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h1 align="center">Hi <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/></a>, I'm Shuvadipta Das aka 5h0ov</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <h3 align="center">Aspiring Software Engineer from India with a passion for Computer Science.</h3>
 
 <p align="center"> 
