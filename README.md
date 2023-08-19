@@ -23,11 +23,11 @@
 
 - 💬 Ask me about **Computer Science, Web Dev, C.**
 
-- 📫 How to reach me **shuvadiptadas8820@gmail.com**
+- 📫 How to reach me: **shuvadiptadas8820@gmail.com**
 
 - 😄 Pronouns: **He/Him/His**
 
-- ⚡ Fun fact **I once thought of reading a book about sinkholes. But it fell through!**
+- ⚡ Fun fact: **I once thought of reading a book about sinkholes. But it fell through!**
 <br>
 <br>
 
