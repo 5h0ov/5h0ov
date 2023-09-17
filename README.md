@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Web Dev, DSA Using both C++ & Java**
   
-- I have participated in Open-Source Contribution Programme **GirlScript Summer of Code** Rank - **49**
+- I have participated in Open-Source Contribution Programme **GirlScript Summer of Code 2023** Rank - **49**
 
 - 👨‍💻 All of my projects are available at **[Personal Portfolio](https://5h0ov.github.io/Personal-Portfolio/)**
 
