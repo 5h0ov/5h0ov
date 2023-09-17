@@ -18,6 +18,8 @@
 - 🔭 I’m currently working on **[Halo Master Chief Webpage](https://github.com/5h0ov/Halo-Master-Chief-Page)**
 
 - 🌱 I’m currently learning **Web Dev, DSA Using both C++ & Java**
+  
+- I have participated in Open-Source Contribution Programme **GirlScript Summer of Code** Rank - **49**
 
 - 👨‍💻 All of my projects are available at **[Personal Portfolio](https://5h0ov.github.io/Personal-Portfolio/)**
 
