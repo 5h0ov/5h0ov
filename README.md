@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/5h0ovie" target="_blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
 
-- 🔭 I’m currently working on **[Halo Master Chief Webpage](https://github.com/5h0ov/Halo-Master-Chief-Page)**
+- 🔭 I’m currently working on **[Halo Master Chief Webpage](https://github.com/5h0ov/Halo-Master-Chief-Page)** & Various other Projects
 
 - 🌱 I’m currently learning **Web Dev, DSA Using both C++ & Java**
   
