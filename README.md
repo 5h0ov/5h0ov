@@ -64,3 +64,6 @@
     </a>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+
+[![An image of @5h0ov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5h0ov)](https://holopin.io/@5h0ov)
