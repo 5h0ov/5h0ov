@@ -21,6 +21,8 @@
   
 - I have participated in Open-Source Contribution Programme **GirlScript Summer of Code 2023** Rank - **49**
 
+- Top 60 Winner of **HACKSQUAD '23** organized by NOVU
+
 - 👨‍💻 All of my projects are available at **[Personal Portfolio](https://5h0ov.github.io/Personal-Portfolio/)**
 
 - 💬 Ask me about **Computer Science, Web Dev, C.**
