@@ -10,6 +10,9 @@
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5h0ov&label=Profile%20views&color=0e75b6&style=flat" alt="5h0ov" /> </p>
+<!-- <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=5h0ov&label=Profile%20Views&pretty=true" />
+</a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=5h0ov&theme=radical)]()
 
