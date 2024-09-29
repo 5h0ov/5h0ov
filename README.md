@@ -14,7 +14,7 @@
   <img src="https://visitcount.itsvg.in/api?id=5h0ov&label=Profile%20Views&pretty=true" />
 </a> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=5h0ov&theme=radical)]()
+[![trophy](https://github-trophies.vercel.app/?username=5h0ov&theme=radical)]()
 
 <p align="left"> <a href="https://twitter.com/5h0ovie" target="_blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
 
