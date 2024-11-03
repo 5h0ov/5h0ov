@@ -24,7 +24,9 @@
   
 - I have participated in Open-Source Contribution Programme **GirlScript Summer of Code 2023** Rank - **49**
 
-- Top 60 Winner of **HACKSQUAD '23** organized by NOVU - Rank 22 Team Ideamate
+- 🥇 **1st Place** Winning Team Codeblooded in **HackOdisha '24**
+
+- 🏆 Top 60 Winner Team of **HACKSQUAD '23** organized by NOVU - Rank 22 Team Ideamate
 
 - 👨‍💻 All of my projects are available at **[Personal Portfolio](https://5h0ov.github.io/Personal-Portfolio/)**
 
