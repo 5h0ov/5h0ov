@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/5h0ovie" target="_blank"><img src="https://img.shields.io/twitter/follow/5h0ovie?logo=twitter&style=for-the-badge" alt="5h0ovie" /></a> </p>
 
-- 🔭 I’m currently working on various Full Stack Projects
+- 🔭 I’m currently working on [SnowSEO](https://snowseo.com)
 
 - 🌱 I’m currently learning **Web Dev, DSA Using both C++ & Java**
   
@@ -28,9 +28,9 @@
 
 - 🏆 Top 60 Winner of **HACKSQUAD '23** organized by NOVU - Rank 22 Team Ideamate
 
-- 👨‍💻 All of my projects are available at **[Personal Portfolio](https://5h0ov.github.io/Personal-Portfolio/)**
+- 👨‍💻 All of my projects are available at **[Personal Portfolio](https://shoob.me)**
 
-- 💬 Ask me about **Computer Science, Web Dev, C.**
+- 💬 Ask me about **Computer Science, Web Dev, C/C++**
 
 - 📫 How to reach me: **shuvadiptadas8820@gmail.com**
 
