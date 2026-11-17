@@ -24,19 +24,29 @@ full-stack developer · building web apps, generative tools & always learning
 
 - building **[SnowSEO](https://snowseo.com)** - all-in-one SEO platform.
 - published a research paper on **metaheuristic optimization algorithms** in **[Springer Nature](https://link.springer.com/article/10.1007/s41314-025-00075-4)** *(Best Paper Presentation Award at ICAN 2025)*.
-- tinkering with cyber security.
+- tinkering with cyber security and software development.
 - won 1st Place at **HackOdisha '24** (Team Codeblooded).
-- like to talk about life, guns, tanks (weird ik, but hey, we all have our quirks).
+- like to talk about life, guns, tanks (weird ik), games, and all kinds of animals!
 
 ---
 
 ### things i like working with <img src="https://cdn3.emoji.gg/emojis/1407-girhype.png" width="24" height="24" alt="gir hype" />
 
-`TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `TailwindCSS` · `Docker` · `C++` · `and anything atp`
+`TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `TailwindCSS` · `Docker` · `C++` · `and anything atp...`
 
 ---
 
+<br/>
+
+<div align="center">
+  <a href="https://discordapp.com/users/340577779051528192"><img src="https://statusbanner.com/banner/scenic-cover/340577779051528192.svg?animatedAvatar=1" alt="Discord status" /></a>
+</div>
+
+<br/>
+
+<!-- 
 <div align="center">
   <img src="./assets/halo.gif" width="100%" alt="Halo Ring" />
-</div>
+</div> 
+-->
 
